@@ -1,0 +1,14 @@
+D:\Works\Hİkayeödevi\bin\Debug\net8.0\Hİkayeödevi.exe
+D:\Works\Hİkayeödevi\bin\Debug\net8.0\Hİkayeödevi.deps.json
+D:\Works\Hİkayeödevi\bin\Debug\net8.0\Hİkayeödevi.runtimeconfig.json
+D:\Works\Hİkayeödevi\bin\Debug\net8.0\Hİkayeödevi.dll
+D:\Works\Hİkayeödevi\bin\Debug\net8.0\Hİkayeödevi.pdb
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.AssemblyInfoInputs.cache
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.AssemblyInfo.cs
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.csproj.CoreCompileInputs.cache
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.dll
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\refint\Hİkayeödevi.dll
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.pdb
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\Hİkayeödevi.genruntimeconfig.cache
+D:\Works\Hİkayeödevi\obj\Debug\net8.0\ref\Hİkayeödevi.dll
